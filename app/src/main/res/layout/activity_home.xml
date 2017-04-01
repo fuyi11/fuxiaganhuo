@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     tools:openDrawer="start"
-    tools:context="com.dingmouren.easymvp.ui.home.HomeActivity">
+    tools:context="com.dingmouren.fujialiangmvp.ui.home.HomeActivity">
 
     <android.support.design.widget.CoordinatorLayout
         android:id="@+id/coordinator"
@@ -52,7 +52,7 @@
             android:layout_gravity="bottom"
             android:background="@android:color/white"
             app:menu="@menu/menu_bottom_navigation"
-            app:layout_behavior="com.dingmouren.easymvp.behavior.HomeTabBottomBehavior"
+            app:layout_behavior="com.dingmouren.fujialiangmvp.behavior.HomeTabBottomBehavior"
             />
 
         <!--

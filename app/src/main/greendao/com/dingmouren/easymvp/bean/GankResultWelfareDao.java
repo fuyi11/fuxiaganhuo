@@ -1,4 +1,4 @@
-package com.dingmouren.easymvp.bean;
+package com.dingmouren.fujialiangmvp.bean;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteStatement;

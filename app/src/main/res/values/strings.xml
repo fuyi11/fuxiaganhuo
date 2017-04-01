@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EasyMvp</string>
+    <string name="app_name">伏峡Mvp</string>
     <string name="gallery">相册</string>
     <string name="drawer_open">打开</string>
     <string name="drawer_close">关闭</string>
@@ -22,6 +22,8 @@
 			"　　在我的心头荡漾。\n"
 
     </string>
-    <string name="csdn_url">http://blog.csdn.net/xiaochuanding</string>
-    <string name="github_url">https://github.com/DingMouRen</string>
+    <string name="csdn_url">http://blog.csdn.net/fuyi126</string>
+    <string name="github_url">https://github.com/fuyi11</string>
+    <!--<string name="csdn_url">http://blog.csdn.net/xiaochuanding</string>-->
+    <!--<string name="github_url">https://github.com/DingMouRen</string>-->
 </resources>

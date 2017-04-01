@@ -1,4 +1,4 @@
-package com.dingmouren.easymvp.bean;
+package com.dingmouren.fujialiangmvp.bean;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
